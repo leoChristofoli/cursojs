@@ -1,0 +1,1 @@
+const saudacao = 'Oi' // Contexto Léxico 1
