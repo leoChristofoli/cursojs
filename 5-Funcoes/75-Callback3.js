@@ -1,1 +1,1 @@
-document.getElementsByTagName("body")[0]
+document.getElementsByTagName("body")[0].onclick = (e) => console.log(e.clientX, e.clientY, this, e.target)
