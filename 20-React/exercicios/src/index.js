@@ -12,6 +12,8 @@ ReactDOM.render(
     <div>
         <Pai nome="Paulo" sobrenome="Silva" > 
             <Filho nome="João" sobrenome="Silva" />
+            <Filho nome="Carla" sobrenome="Pereira" />
+            <Filho nome="Paulo" sobrenome="Pereira" />
         </Pai>
     </div>
 
